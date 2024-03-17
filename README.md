@@ -4,7 +4,7 @@ A set of images for classifying facial expressions
 This repository is a dataset of different facial expressions used for 
 training machine learning algorithms.
 
-It is created by my machine learning graduate students.
+My machine learning graduate students create it.
 
 # Submissions
 Please do not use large image files. In general, images should be under 50KB.
@@ -19,7 +19,7 @@ Most importantly, this includes the `legend.csv`, which maps an image in the
 This file also has a user ID field. Please use something unique.
 It is primarily for tracking which students added which files.
 The IDs can be used for a secondary analysis to determine
-whether there are any patterns to the submissions.
+whether there are any submission patterns.
 
 # Emotions
-The set of emoions used are TBD
+The set of emotions used are TBD
